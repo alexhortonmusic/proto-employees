@@ -1,0 +1,17 @@
+{
+  "name": "employees",
+  "main": "employees.js",
+  "homepage": "https://github.com/alexhortonmusic/proto-employees",
+  "authors": [
+    "Alex Horton <alexhortonmusic@gmail.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
